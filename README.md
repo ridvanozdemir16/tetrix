@@ -1,5 +1,10 @@
 This is a group project that are made for project based learning class at Dokuz Eylul University
 
+Group members:
+
+    Hazar ÖZYAĞCI - https://github.com/HazarZYGC
+    Eray KAPLAN
+
 
 The aim of the project is to develop a one-player board game.
 
