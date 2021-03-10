@@ -1,4 +1,4 @@
-This is a group project that are made for project based learning class at first year of department of computer engineering at Dokuz Eylul University
+This is a group project that are made for CME1251 Project Based Learning class at first year of department of computer engineering at Dokuz Eylul University
 
 Group members:
 
